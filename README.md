@@ -3,7 +3,7 @@
 
 ## Repository addon
 
-Instructions for adding this repo:
+Instruksjoner for å få tilgang til Hexflix:
 
 <img align="left" src="icon.png" width="256" hspace="48" title="Addons4Kodi Repository">
 

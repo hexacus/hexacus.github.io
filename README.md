@@ -17,7 +17,7 @@ Instructions for adding this repo:
 	<li>Etter dette så klikker du deg inn på "File Manager", og deretter klikker "Add source" helt nederst på den ene siden (hvilke side betyr ingen ting)</li>
     <li>Der det står "none" så skriver du inn <code>https://hexacus.github.io/</code> (og gi den navnet ".hex" i det blanke feltet under).</li>
 	<li>Klikk "ok" og om du har gjort alt riktig skal det nå være lagt til en mappe med navn ".hex"</li>
-	<li>Gå ut igjen og klikk på "Add-ons", og trykk vidre inn på "install from zip file", klikk der etter på .hex, og instaler programmet mitt kalt "hexapository"</li>
+	<li>Gå ut igjen og klikk på "Add-ons", og trykk vidre inn på "install from zip file", klikk der etter på .hex, og instaler programmet mitt kalt <a href="repository.hexapository-1.0.zip">repository.hexapository-1.0.zip</a></li>
     <li>Etter dette klikker du på "install from repository" og klikk deg inn på "hexapository" også "program add-ons"</li>
 	<li>Instaler så programmet mitt "hexWiz" og åpne det for vidre instruksjoner</li>
   </ul>
